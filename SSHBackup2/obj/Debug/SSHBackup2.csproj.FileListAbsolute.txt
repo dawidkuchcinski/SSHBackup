@@ -1,0 +1,13 @@
+C:\Users\Dawid IT\source\repos\SSHBackup2\SSHBackup2\obj\Debug\SSHBackup2.csprojAssemblyReference.cache
+C:\Users\Dawid IT\source\repos\SSHBackup2\SSHBackup2\obj\Debug\SSHBackup2.csproj.CoreCompileInputs.cache
+C:\Users\Dawid IT\source\repos\SSHBackup2\SSHBackup2\bin\Debug\SSHBackup2.exe
+C:\Users\Dawid IT\source\repos\SSHBackup2\SSHBackup2\bin\Debug\SSHBackup2.pdb
+C:\Users\Dawid IT\source\repos\SSHBackup2\SSHBackup2\bin\Debug\Renci.SshNet.dll
+C:\Users\Dawid IT\source\repos\SSHBackup2\SSHBackup2\bin\Debug\Renci.SshNet.xml
+C:\Users\Dawid IT\source\repos\SSHBackup2\SSHBackup2\obj\Debug\SSHBackup2.csproj.CopyComplete
+C:\Users\Dawid IT\source\repos\SSHBackup2\SSHBackup2\obj\Debug\SSHBackup2.exe
+C:\Users\Dawid IT\source\repos\SSHBackup2\SSHBackup2\obj\Debug\SSHBackup2.pdb
+C:\Users\Dawid IT\source\repos\SSHBackup2\SSHBackup2\bin\Debug\SSHBackup2.exe.manifest
+C:\Users\Dawid IT\source\repos\SSHBackup2\SSHBackup2\bin\Debug\SSHBackup2.application
+C:\Users\Dawid IT\source\repos\SSHBackup2\SSHBackup2\obj\Debug\SSHBackup2.exe.manifest
+C:\Users\Dawid IT\source\repos\SSHBackup2\SSHBackup2\obj\Debug\SSHBackup2.application
